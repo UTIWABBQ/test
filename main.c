@@ -1,6 +1,6 @@
 #incloud <stdio.h>
 
 int main{
-    printf("aaa");
+    printf("aaasumi");
     return 0;
 }
