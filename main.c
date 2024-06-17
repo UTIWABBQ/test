@@ -1,7 +1,8 @@
-#incloud <stdio.h>
+#include <stdio.h>
 
-int main{
+int main(){
     printf("aaa");
-    prinf
+    printf("Hello World!");
+    
     return 0;
 }
